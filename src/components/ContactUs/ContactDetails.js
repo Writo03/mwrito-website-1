@@ -5,7 +5,7 @@ export const ContactDetails = () => {
     <StyledContactDetails>
       <h3>
         <FaEnvelope />
-        aoyt@mwrito.com
+        founder@writo.live
       </h3>
       {/* <h3>
         <FaPhoneAlt />
@@ -13,7 +13,7 @@ export const ContactDetails = () => {
       </h3> */}
       <h3>
         <FaHashtag />
-        41, amandeep avanue, maqsudan Jalandhar Punjab 144027
+        Rewa, Madhyapradesh, India, 486005
       </h3>
     </StyledContactDetails>
   );
